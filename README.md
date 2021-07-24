@@ -1,6 +1,3 @@
->#### to start my react app on my M1 Mackbool!! 
-
->>env FAST_REFRESH=false npm start  
 
 >**Lab:** #, **Feature:** #: #,
 >>**Estimate amount of time needed to complete:** #,
@@ -24,13 +21,20 @@
 >**Lab:** 05, **Feature:** 1: Update profile,
 >>**Estimate amount of time needed to complete:** 1Hr,
 >>>**Start time:** Sat-jul-24 1:30pm,
->>>>**Finish time:** Sat-jul-24 2:30pm,,
+>>>>**Finish time:** Sat-jul-24 2:30pm,
 >>>>>**Actual time needed to complete:** 1Hr,
 >>>>>>**Key requirements:** Change the information displayed to display content about me.
 
->**Lab:** #, **Feature:** #: #,
->>**Estimate amount of time needed to complete:** #,
->>>**Start time:** #,
+>**Lab:** 05, **Feature:** 2: easily find the information ,
+>>**Estimate amount of time needed to complete:** 1.5Hr,
+>>>**Start time:** Sat-jul-24 2:30pm,
+>>>>**Finish time:** Sat-jul-24 4:00pm,
+>>>>>**Actual time needed to complete:** 1.5Hr,
+>>>>>>**Key requirements:** Nav, Header and Footer: As a user, I want a clean, easy to use UX so I can easily find the information that I want and know what I am looking at..
+
+>**Lab:** 05, **Feature:** 3: Redo the 'Landing' page so that it is your new 'Portfolio' page.,
+>>**Estimate amount of time needed to complete:** 2.5Hr,
+>>>**Start time:** Sat-jul-24 4:30pm,,
 >>>>**Finish time:** #,
 >>>>>**Actual time needed to complete:** #,
->>>>>>**Key requirements:** #.
+>>>>>>**Key requirements:** Portfolio Page: As a user, I want to see previous projects that the developer has worked on, so that I can evaluate their skills..
